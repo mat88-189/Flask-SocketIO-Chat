@@ -21,6 +21,9 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+venv/
+.vscode/
+.deployment
 
 # Installer logs
 pip-log.txt
